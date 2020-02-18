@@ -1,13 +1,12 @@
 ---
 title: UlamPinoy
 subtitle: >-
-  Webpop is a pioneering cloud CMS that let's you build custom, easy-to-use
-  websites with powerful cloud tooling and hosting. It is the precursor of
-  Netlify, an all-in-one platform to build, deploy and manage modern web
-  projects.Optional Project Subtitle
+  UlamPinoy is a family project for the passion of home cooking and food
+  photography. The YouTube channel has a growing following of more than 59,400
+  subscribers and has surpassed 9.4 million views.
 date: 2020-02-18T17:03:57.806Z
-thumb_img_path: /images/webpop-cover.png
-content_img_path: /images/Screenshot_2020-02-18 The Cloud CMS Platform Webpop.jpg
+thumb_img_path: /images/ulampinoy-cover.png
+content_img_path: /images/Screenshot_2020-02-18 UlamPinoy—Official Website ulampinoy com(3).jpg
 layout: project
 ---
-Creative direction, branding and marketing design, UI design and development for the web app.
+Complete visual design, web development, branding, photography, video production, illustrations, icon design and copy writing.
