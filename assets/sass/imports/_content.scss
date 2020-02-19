@@ -4,6 +4,12 @@
  */
 .post {
   margin-bottom: 3.33333em;
+
+  p {
+    img {
+      margin-top: 1.5rem;
+    }
+  }
 }
 
 .post-header {

@@ -812,6 +812,8 @@ img {
  */
 .post {
   margin-bottom: 3.33333em; }
+  .post p img {
+    margin-top: 1.5rem; }
 
 .post-header {
   margin-bottom: 2.5em; }
