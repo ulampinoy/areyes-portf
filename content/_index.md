@@ -12,7 +12,7 @@ sections:
     type: heroblock
   - component: portfolio_block.html
     layout_style: mosaic
-    num_projects_displayed: 6
+    num_projects_displayed: 8
     section_id: latest-projects
     subtitle: An optional subtitle of the section
     title: Recent Work
@@ -22,7 +22,7 @@ sections:
   - component: contact_block.html
     section_id: contact
     subtitle: An optional subtitle of the section
-    title: Contact Us
+    title: Contact Me
     type: contactblock
 menu:
   main:
