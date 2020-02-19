@@ -4,7 +4,7 @@ subtitle: >-
   Packlink is a disruptive online comparison, booking and management service for
   shipping.
 date: '2019-04-08'
-thumb_img_path: /images/00_PRO--New-Features--On-boarding--Welcome--Existing-User.png
+thumb_img_path: /images/packlink-cover.png
 content_img_path: ''
 layout: project
 ---

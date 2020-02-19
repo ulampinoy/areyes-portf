@@ -12,7 +12,7 @@ sections:
     type: heroblock
   - component: portfolio_block.html
     layout_style: mosaic
-    num_projects_displayed: 8
+    num_projects_displayed: 9
     section_id: latest-projects
     subtitle: Some of my design work I've done
     title: Featured Work
