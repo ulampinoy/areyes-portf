@@ -1,8 +1,7 @@
 ---
 title: MarketGoo
 subtitle: >-
-  MarketGoo is a do-it-yourself online marketing web app for improving your
-  search engine ranking.
+  MarketGoo is a do-it-yourself online marketing web app for improving your search engine ranking.
 date: '2018-12-18'
 thumb_img_path: /images/marketgoo-cover.png
 content_img_path: >-
