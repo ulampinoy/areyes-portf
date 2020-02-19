@@ -41,4 +41,4 @@ Bachelor of Science in Computer Science [Lyceum Northwestern University]
 Build using the ultra-fast site generator [Hugo](https://gohugo.io/). Site deployment and management are generously provided by [Netlify](https://www.netlify.com/). Code and assets repo are hosted at [GitHub](https://github.com/). Editing with [Visual Studio Code](https://code.visualstudio.com/) on a [ Mac](https://www.apple.com/mac/).
 
 
-*Thank You for dropping by!*
+*Thank you for dropping by!*

@@ -9,3 +9,8 @@ content_img_path: /images/tumblr_mgl13i5Vx61qc8oi9o1_1280.jpg
 layout: project
 ---
 Street photography is about capturing the fleeting moment in life. Documenting the human condition as you see and experience it. The most challenging aspect of street photography are the variables in play when realizing the image using the camera as you frame it in your mind.
+
+![](/images/sp-crosswalk.jpg)
+![](/images/sp-metro-layers.jpg)
+![](/images/sp-abuela.jpg)
+![](/images/sp-aliens.jpg)
