@@ -17,26 +17,30 @@ User experience design and UI development for user-facing products and internal 
 
 A low fidelity mockup of the app exploring the feature flow, information structure and navigation.
 
-
-
 ![](/images/Refresh-UI-Create-01-C@2x.png)
 
-Video Ads Template Gallery
+**Video Ads Template Gallery**
 
+![](/images/Refresh-UI-Create-01-A-Copy@2x.png)
 
-
-![](/images/Refresh-UI-Create-01-A Copy@2x.png)
-
-Audio Library UI for selecting the background music for the video ads
-
-
+**Audio Library UI** for selecting the background music for the video ads
 
 ![](/images/Refresh-UI-Create-03@2x.png)
 
-Data Source UI where users can feed in their catalog in formats like csv or manual fill-in a form
-
-
+**Data Source** UI where users can feed in their catalog in formats like csv or manual fill-in a form
 
 ![](/images/Refresh-UI-Console-03-B@2x.png)
 
-The Dashboard offers a view of the campaign list , their respective information and status. Users can also preview the generated video ads of each campaigns.
+**The Dashboard** offers a view of the campaign list , their respective information and status. Users can also preview the generated video ads of each campaigns.
+
+![](/images/Refresh-UI-Console-03-Modal-VIdeoPlayer@2x.png)
+
+
+## FEATURE: Periodicity of Campaigns
+
+The feature goal is to provide users a way to automatically update their campaigns if their product catalog has been changed.
+
+![](/images/DPA-V2-02@2x.png)
+![](/images/DPA-V2-03@2x.png)
+![](/images/DPA-V2-04@2x.png)
+
