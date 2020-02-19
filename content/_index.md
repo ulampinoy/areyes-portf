@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio/index.html
   - component: contact_block.html
     section_id: contact
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: Contact Me
     type: contactblock
 menu:
