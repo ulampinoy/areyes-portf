@@ -42,8 +42,6 @@ The user need the ability to group shipments by their status and take action wit
 
 UI to select a certain group of shipments and apply a corresponding bulk action to the selections
 
-
-
 ![](/images/01_PRO--Easy-Complete--Draft--Selected-All.png)
 
 ![](/images/02_PRO--Easy-Complete--Draft--Selected-Mix-Status.png)
@@ -51,11 +49,15 @@ UI to select a certain group of shipments and apply a corresponding bulk action 
 When all shipments or shipment with different status are selected the only action that can be performed is delete
 
 
-
 ![](/images/03_PRO--Easy-Complete--Draft--Selected-Ready-to-Process.png)
 
 When shipments with similar status are selected, another action is offered – complete the shipments.
 
+### FEATURE: Custom Parcels
+
+A screencast has been produced for a more complex features to show prototype works and used for email feature notifications and in the documentation/support sites.
+
+![](/images/custom-parcel-ES.gif)
 
 
 ### Application Main View and Features
