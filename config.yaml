@@ -6,10 +6,6 @@ params:
   footer:
     content: '&copy; 2020 Allan Reyes.'
     has_social: true
-    links:
-      - new_window: true
-        text: 'Made with Hugo, Netlify, GitHub and Stackbit'
-        url: ''
   header:
     has_nav: true
     logo_img: /images/ar-logo-main.svg
