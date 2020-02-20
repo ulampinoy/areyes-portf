@@ -32,5 +32,5 @@ The objective of the project is to produce an app for small business or *PYME* a
 
 **Marketing Website** After the MVP app was made, a design system was built along side the front-end implementation of the app. Thus, rolling out the design guideline was done and ensure brand coherence. The art direction is to make it fun, friendly, to depart from the "experts-tool" look and feel like what Google Ads Platform have in their UI.
 
-A rounded sans-serif was chosen and used of irregular organic shape as opposed to the formal boxy look for sections.
+A rounded sans-serif was chosen and use of irregular organic shape as opposed to the formal boxy look for sections.
 
