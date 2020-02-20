@@ -21,7 +21,7 @@
         </header><!-- .post-header -->
         {{ if $post.Params.thumb_img_path }}
         <a class="post-thumbnail" href="{{ $post.Permalink }}">
-          <img class="thumbnail" src="{{ $post.Params.thumb_img_path | .Params.url }}" alt="{{ $post.Params.title }}" />
+          <img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" />
         </a>
         {{ end }}
         {{ if $post.Params.excerpt }}
