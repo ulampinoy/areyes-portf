@@ -3,7 +3,7 @@ title: UlamPinoy
 subtitle: >-
   UlamPinoy is a family project for the passion of home cooking and food
   photography. The YouTube channel has a growing following of more than 61,700
-  subscribers and has surpassed 9.9 million views.
+  subscribers and currently approaching 10 million views.
 date: '2019-02-27'
 thumb_img_path: /images/ulampinoy-cover.png
 content_img_path: /images/Screenshot_2020-02-18 UlamPinoy—Official Website ulampinoy com(3).jpg
@@ -29,5 +29,7 @@ A **Video Recipe Page** showing the embedded cook-along video from our YouTUBE c
 
 ### Merch Design
 
-![Screenshot](/images/up-merch-tote.jpg)
+![Screenshot](/images/up-merch.jpg)
+These merch are available in the [UlamPinoy YouTube channel](https://www.youtube.com/user/ulampinoy/featured) and also [Teespring store](https://teespring.com/stores/ulampinoy)
+
 ![Screenshot](/images/up-merch-tshirt.jpg)
