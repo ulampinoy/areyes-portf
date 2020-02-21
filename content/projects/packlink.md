@@ -76,7 +76,7 @@ Minified Side bar to maximize shipments list view
 
 
 
-![](/images/08_PRO--Easy-Complete--Main-View--Multiple-Items-popOver Copy 8.png)
+![](/images/08_PRO--Easy-Complete--Main-View--Multiple-Items-popOver.png)
 
 Shipment with some info missing can easily be completed right in the main view
 
@@ -87,3 +87,11 @@ Shipment with some info missing can easily be completed right in the main view
 ![](/images/12_PRO--Shipment-Details.png)
 
 A shipment page showing its complete information
+
+### Brand Design
+
+![](/images/packlink-brand-01.png)
+![](/images/packlink-brand-02.png)
+![](/images/packlink-brand-03.png)
+![](/images/packlink-brand-04.png)
+
