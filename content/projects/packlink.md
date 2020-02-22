@@ -9,18 +9,19 @@ content_img_path: ''
 layout: project
 ---
 
+### My Contributions & Responsibilities
 
-Design both consumer and business users website/app. Create the brand design, illustrations and UI design system. Work closely with the product owner and UX researchers to prototype workflows and build user experiences. I helped form and structure the product team.
+I designed and worked as the Design Lead to create both consumer and business users website/app. Create the brand design, illustrations and UI design system. Work closely with the product owner and UX researchers to prototype workflows and build user experiences. As the first hire in the Product Team, I helped define the team members profile, hire and on-board them.
 
-### USER ON-BOARDING
+### FEATURE: User On-Boarding
+
+The goal for the on-boarding is not only make the user register but to make their first shipment during the on sign-up.
 
 ![](/images/02_PRO--New-Features--On-boarding--Parcel-Pre-filled--Tooltip.png)
 
 ![](/images/03_PRO--New-Features--On-boarding--Parcel-Pre-filled.png)
 
 UI for defining the parcel measurements
-
-
 
 ![](/images/05_PRO--New-Features--On-boarding--Warehouse-ShortForm.png)
 
