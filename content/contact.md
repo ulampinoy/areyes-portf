@@ -7,4 +7,4 @@ menu:
 layout: contact
 ---
 
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+Hi there! Please fill the contact form below if you want to reach out and talk to me.
