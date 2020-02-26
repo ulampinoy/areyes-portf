@@ -42,3 +42,6 @@ Build using the ultra-fast site generator [Hugo](https://gohugo.io/). Site deplo
 
 
 *Thank you for dropping by!*
+
+![Logo Badge of Allan Reyes](/images/ar-logo-purple.svg)
+
