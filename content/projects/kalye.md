@@ -3,7 +3,7 @@ title: Kalye
 subtitle: >-
   A Tumblr of my street photography work.I  shoot with Nikon D7000 and Sony
   α6000 with 2 prime lens: 35mm and 50mm.
-date: 2010-02-18T17:11:49.184Z
+date: 2017-02-18T17:11:49.184Z
 thumb_img_path: /images/sp-aliens.jpg
 content_img_path: /images/sp-aliens.jpg
 layout: project

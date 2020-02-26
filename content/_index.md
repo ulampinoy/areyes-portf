@@ -14,7 +14,7 @@ sections:
     layout_style: mosaic
     num_projects_displayed: 10
     section_id: latest-projects
-    subtitle: Some of my design work I've done
+    subtitle: Some of the design work I've done previously
     title: Featured Work
     type: portfolioblock
     view_all_text: View All
